@@ -1,0 +1,9 @@
+#Python Askisi Afairesi Sxolion Paradeigma
+
+a=10
+b=2
+#to athroisma ton a,b einai
+c=a+b
+print("#to athroisma=", c)
+w=['#one','#two','#three']
+print(w) #sxolio
